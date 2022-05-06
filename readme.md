@@ -1,6 +1,8 @@
 This is simple news website with news and articles.
 
 How to run the application:
+
+
 npm install
 
 
