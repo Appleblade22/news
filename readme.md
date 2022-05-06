@@ -8,7 +8,9 @@ npm install
 
 npm start
 
-Initialise your own .env file with API keys and other settings.
+Initialise your own .env file with API keys with variable like =>
+
+API_KEY=*************************
     
 
 
